@@ -1,13 +1,13 @@
 # Tesi triennale Binelli
 
-Questo programma fa parte della tesi triennal di Riccardo Binelli dal 
+Questo programma fa parte della tesi triennale di Riccardo Binelli dal 
 titolo "Il decadimento alpha come fenomeno di tunneling quantistico:
 modello a potenziale e simulazioni numeriche", depositato presso la
 Biblioteca delle Scienze dell'Università degli Studi di Pavia 
-nell'Anno Accademico AA2024/2025.
+nell'Anno Accademico 2024/2025.
 Il programma è stato sviluppato per calcolare i tempi di dimezzamento
 degli isotopi pari dell'Uranio (dal 224U al 238U) sfruttando un modello
-a potenziale di tipo Coumob + Woods-Saxon e una routine di integrazione
+a potenziale di tipo Coulomb + Woods-Saxon e una routine di integrazione
 della famiglia delle regole di Gauss-Kronrod, di cui viene qui presentato
 il codice e le cui caratteristiche si trovano all'interno del testo di
 tesi.
